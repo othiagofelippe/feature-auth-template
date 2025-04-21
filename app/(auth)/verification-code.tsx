@@ -1,4 +1,4 @@
-import VerificationCodeScreen from "@/src/features/auth/screen/VerificationCodeScreen";
+import VerificationCodeScreen from "@/src/features/auth/screens/VerificationCodeScreen";
 import React from "react";
 
 export default function VerificationCodePage() {

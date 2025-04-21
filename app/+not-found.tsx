@@ -1,4 +1,4 @@
-import NotFoundScreen from "@/src/features/not-found/screen/NotFoundScreen";
+import NotFoundScreen from "@/src/features/common/screens/NotFoundScreen";
 import { Stack } from "expo-router";
 
 export default function NotFoundPage() {

@@ -4,8 +4,8 @@ import { createJSONStorage, persist } from "zustand/middleware";
 import {
   AuthActions,
   createAuthActions,
-} from "../features/auth/store/auth.actions";
-import { AuthState, createAuthSlice } from "../features/auth/store/auth.slice";
+} from "../features/auth/stores/auth.actions";
+import { AuthState, createAuthSlice } from "../features/auth/stores/auth.slice";
 
 export type RootStore = AuthState & AuthActions;
 
