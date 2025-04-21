@@ -1,5 +1,5 @@
+import ForgotPasswordScreen from "@/src/features/auth/screen/ForgotPasswordScreen";
 import React from "react";
-import ForgotPasswordScreen from "@/src/feature/auth/screen/ForgotPasswordScreen";
 
 export default function ForgotPasswordPage() {
   return <ForgotPasswordScreen />;
