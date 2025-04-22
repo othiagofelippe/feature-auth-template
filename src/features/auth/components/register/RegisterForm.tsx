@@ -280,7 +280,7 @@ const RegisterForm = ({
         )}
       </FormControl>
 
-      <HStack className="justify-center mb-4 space-x-1">
+      <HStack className="justify-center mb-4 gap-1">
         <Pressable onPress={onTermsPress}>
           <Text className="text-sm text-blue-600 font-medium">
             Termos de Uso
